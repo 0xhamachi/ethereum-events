@@ -9,6 +9,9 @@ Efficient and reliable event listener for Ethereum.
 
 Receive real-time events from your contracts with minimal effort.
 
+## Changes
+
+- Added `removeAllListeners` functionality ([reference](https://nodejs.org/docs/latest/api/events.html#emitterremovealllistenerseventname))
 
 ## Motivation
 
